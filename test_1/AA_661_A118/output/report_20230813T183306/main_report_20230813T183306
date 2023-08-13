@@ -1,0 +1,2691 @@
+Command line: ./main.py -dir=test_1/AA_661_A118 -task=classify -cluster=UBC1004 -model=all -metrics_file=./metrics_file_20230813T182414.tmp
+Using properties file: ./test_1/AA_661_A118/config.properties
+Clusters to process: UBC1004
+Found 418 sources for cluster UBC1004 in file ./test_1/AA_661_A118/data.csv
+
+Sources count: 418 +75%
+
+Reading ./test_1/AA_661_A118/output/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_75.csv
+
+Estimated number of clusters: 1
+Estimated number of noise points: 306
+Silhoutte score: 0.407558044250121
+
+
+Main plot ./test_1/AA_661_A118/output/report_20230813T183306/UBC1004_DBSCAN_20230813T183306/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_75_all_clusters.png
+Main csv ./test_1/AA_661_A118/output/report_20230813T183306/UBC1004_DBSCAN_20230813T183306/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_75_all_clusters.csv
+
+
+Catalogued sources found in cluster 0: 418 (100.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 0
+
+
+Sources count: 418 +100%
+
+Reading ./test_1/AA_661_A118/output/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_100.csv
+
+Estimated number of clusters: 1
+Estimated number of noise points: 404
+Silhoutte score: 0.3112667678952774
+
+
+Main plot ./test_1/AA_661_A118/output/report_20230813T183306/UBC1004_DBSCAN_20230813T183306/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_100_all_clusters.png
+Main csv ./test_1/AA_661_A118/output/report_20230813T183306/UBC1004_DBSCAN_20230813T183306/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_100_all_clusters.csv
+
+
+Catalogued sources found in cluster 0: 418 (100.0%)
+Extra elements found: 14
+Catalogued sources not found in cluster: 0
+
+
+Sources count: 418 +300%
+
+Reading ./test_1/AA_661_A118/output/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300.csv
+
+Estimated number of clusters: 13
+Estimated number of noise points: 1106
+Silhoutte score: -0.1711332940365476
+
+
+Main plot ./test_1/AA_661_A118/output/report_20230813T183306/UBC1004_DBSCAN_20230813T183306/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300_all_clusters.png
+Main csv ./test_1/AA_661_A118/output/report_20230813T183306/UBC1004_DBSCAN_20230813T183306/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300_all_clusters.csv
+
+
+Catalogued sources found in cluster 0: 418 (100.0%)
+Extra elements found: 42
+Catalogued sources not found in cluster: 0
+
+
+Catalogued sources found in cluster 1: 0 (0.0%)
+Extra elements found: 20
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 2: 0 (0.0%)
+Extra elements found: 11
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 3: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 4: 0 (0.0%)
+Extra elements found: 13
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 5: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 6: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 7: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 8: 0 (0.0%)
+Extra elements found: 12
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 9: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 10: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 11: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 12: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Sources count: 418 +500%
+
+Reading ./test_1/AA_661_A118/output/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_500.csv
+
+Estimated number of clusters: 53
+Estimated number of noise points: 1214
+Silhoutte score: -0.2975673576709557
+
+
+Main plot ./test_1/AA_661_A118/output/report_20230813T183306/UBC1004_DBSCAN_20230813T183306/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_500_all_clusters.png
+Main csv ./test_1/AA_661_A118/output/report_20230813T183306/UBC1004_DBSCAN_20230813T183306/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_500_all_clusters.csv
+
+
+Catalogued sources found in cluster 0: 0 (0.0%)
+Extra elements found: 16
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 1: 418 (100.0%)
+Extra elements found: 408
+Catalogued sources not found in cluster: 0
+
+
+Catalogued sources found in cluster 2: 0 (0.0%)
+Extra elements found: 10
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 3: 0 (0.0%)
+Extra elements found: 22
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 4: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 5: 0 (0.0%)
+Extra elements found: 22
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 6: 0 (0.0%)
+Extra elements found: 10
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 7: 0 (0.0%)
+Extra elements found: 38
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 8: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 9: 0 (0.0%)
+Extra elements found: 17
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 10: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 11: 0 (0.0%)
+Extra elements found: 25
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 12: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 13: 0 (0.0%)
+Extra elements found: 23
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 14: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 15: 0 (0.0%)
+Extra elements found: 11
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 16: 0 (0.0%)
+Extra elements found: 4
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 17: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 18: 0 (0.0%)
+Extra elements found: 10
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 19: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 20: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 21: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 22: 0 (0.0%)
+Extra elements found: 11
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 23: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 24: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 25: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 26: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 27: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 28: 0 (0.0%)
+Extra elements found: 10
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 29: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 30: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 31: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 32: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 33: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 34: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 35: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 36: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 37: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 38: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 39: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 40: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 41: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 42: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 43: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 44: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 45: 0 (0.0%)
+Extra elements found: 4
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 46: 0 (0.0%)
+Extra elements found: 3
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 47: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 48: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 49: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 50: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 51: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 52: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Sources count: 418 +1000%
+
+Reading ./test_1/AA_661_A118/output/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000.csv
+
+Estimated number of clusters: 82
+Estimated number of noise points: 1843
+Silhoutte score: -0.36110575800441924
+
+
+Main plot ./test_1/AA_661_A118/output/report_20230813T183306/UBC1004_DBSCAN_20230813T183306/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_all_clusters.png
+Main csv ./test_1/AA_661_A118/output/report_20230813T183306/UBC1004_DBSCAN_20230813T183306/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_all_clusters.csv
+
+
+Catalogued sources found in cluster 0: 418 (100.0%)
+Extra elements found: 1569
+Catalogued sources not found in cluster: 0
+
+
+Catalogued sources found in cluster 1: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 2: 0 (0.0%)
+Extra elements found: 49
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 3: 0 (0.0%)
+Extra elements found: 22
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 4: 0 (0.0%)
+Extra elements found: 11
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 5: 0 (0.0%)
+Extra elements found: 24
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 6: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 7: 0 (0.0%)
+Extra elements found: 37
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 8: 0 (0.0%)
+Extra elements found: 20
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 9: 0 (0.0%)
+Extra elements found: 12
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 10: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 11: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 12: 0 (0.0%)
+Extra elements found: 19
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 13: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 14: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 15: 0 (0.0%)
+Extra elements found: 23
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 16: 0 (0.0%)
+Extra elements found: 18
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 17: 0 (0.0%)
+Extra elements found: 11
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 18: 0 (0.0%)
+Extra elements found: 12
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 19: 0 (0.0%)
+Extra elements found: 4
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 20: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 21: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 22: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 23: 0 (0.0%)
+Extra elements found: 24
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 24: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 25: 0 (0.0%)
+Extra elements found: 10
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 26: 0 (0.0%)
+Extra elements found: 12
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 27: 0 (0.0%)
+Extra elements found: 17
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 28: 0 (0.0%)
+Extra elements found: 24
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 29: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 30: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 31: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 32: 0 (0.0%)
+Extra elements found: 10
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 33: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 34: 0 (0.0%)
+Extra elements found: 10
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 35: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 36: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 37: 0 (0.0%)
+Extra elements found: 11
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 38: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 39: 0 (0.0%)
+Extra elements found: 12
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 40: 0 (0.0%)
+Extra elements found: 4
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 41: 0 (0.0%)
+Extra elements found: 4
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 42: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 43: 0 (0.0%)
+Extra elements found: 4
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 44: 0 (0.0%)
+Extra elements found: 14
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 45: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 46: 0 (0.0%)
+Extra elements found: 10
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 47: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 48: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 49: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 50: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 51: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 52: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 53: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 54: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 55: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 56: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 57: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 58: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 59: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 60: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 61: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 62: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 63: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 64: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 65: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 66: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 67: 0 (0.0%)
+Extra elements found: 12
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 68: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 69: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 70: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 71: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 72: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 73: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 74: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 75: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 76: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 77: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 78: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 79: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 80: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 81: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Sources count: 418 +75%
+
+Reading ./test_1/AA_661_A118/output/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_75.csv
+
+Estimated number of clusters: 1
+Estimated number of noise points: 363
+Silhoutte score: 0.2721811588104226
+
+
+Main plot ./test_1/AA_661_A118/output/report_20230813T183306/UBC1004_OPTICS_20230813T183346/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_75_all_clusters.png
+Main csv ./test_1/AA_661_A118/output/report_20230813T183306/UBC1004_OPTICS_20230813T183346/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_75_all_clusters.csv
+
+
+Catalogued sources found in cluster 0: 367 (87.8%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 51
+
+
+Sources count: 418 +100%
+
+Reading ./test_1/AA_661_A118/output/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_100.csv
+
+Estimated number of clusters: 1
+Estimated number of noise points: 397
+Silhoutte score: 0.32427502250138673
+
+
+Main plot ./test_1/AA_661_A118/output/report_20230813T183306/UBC1004_OPTICS_20230813T183346/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_100_all_clusters.png
+Main csv ./test_1/AA_661_A118/output/report_20230813T183306/UBC1004_OPTICS_20230813T183346/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_100_all_clusters.csv
+
+
+Catalogued sources found in cluster 0: 418 (100.0%)
+Extra elements found: 21
+Catalogued sources not found in cluster: 0
+
+
+Sources count: 418 +300%
+
+Reading ./test_1/AA_661_A118/output/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300.csv
+
+Estimated number of clusters: 1
+Estimated number of noise points: 833
+Silhoutte score: 0.2748454049096073
+
+
+Main plot ./test_1/AA_661_A118/output/report_20230813T183306/UBC1004_OPTICS_20230813T183346/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300_all_clusters.png
+Main csv ./test_1/AA_661_A118/output/report_20230813T183306/UBC1004_OPTICS_20230813T183346/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300_all_clusters.csv
+
+
+Catalogued sources found in cluster 0: 418 (100.0%)
+Extra elements found: 421
+Catalogued sources not found in cluster: 0
+
+
+Sources count: 418 +500%
+
+Reading ./test_1/AA_661_A118/output/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_500.csv
+
+Estimated number of clusters: 1
+Estimated number of noise points: 1254
+Silhoutte score: 0.22218140086016913
+
+
+Main plot ./test_1/AA_661_A118/output/report_20230813T183306/UBC1004_OPTICS_20230813T183346/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_500_all_clusters.png
+Main csv ./test_1/AA_661_A118/output/report_20230813T183306/UBC1004_OPTICS_20230813T183346/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_500_all_clusters.csv
+
+
+Catalogued sources found in cluster 0: 418 (100.0%)
+Extra elements found: 836
+Catalogued sources not found in cluster: 0
+
+
+Sources count: 418 +1000%
+
+Reading ./test_1/AA_661_A118/output/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000.csv
+
+Estimated number of clusters: 1
+Estimated number of noise points: 2290
+Silhoutte score: 0.23641121841638799
+
+
+Main plot ./test_1/AA_661_A118/output/report_20230813T183306/UBC1004_OPTICS_20230813T183346/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_all_clusters.png
+Main csv ./test_1/AA_661_A118/output/report_20230813T183306/UBC1004_OPTICS_20230813T183346/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_all_clusters.csv
+
+
+Catalogued sources found in cluster 0: 418 (100.0%)
+Extra elements found: 1890
+Catalogued sources not found in cluster: 0
+
+
+Sources count: 418 +75%
+
+Reading ./test_1/AA_661_A118/output/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_75.csv
+
+Estimated number of clusters: 48
+Estimated number of noise points: 0
+Silhoutte score: 0.6166044476184701
+
+
+Main plot ./test_1/AA_661_A118/output/report_20230813T183306/UBC1004_MeanShift_20230813T183352/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_75_all_clusters.png
+Main csv ./test_1/AA_661_A118/output/report_20230813T183306/UBC1004_MeanShift_20230813T183352/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_75_all_clusters.csv
+
+
+Catalogued sources found in cluster 0: 418 (100.0%)
+Extra elements found: 56
+Catalogued sources not found in cluster: 0
+
+
+Catalogued sources found in cluster 1: 0 (0.0%)
+Extra elements found: 23
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 2: 0 (0.0%)
+Extra elements found: 14
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 3: 0 (0.0%)
+Extra elements found: 16
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 4: 0 (0.0%)
+Extra elements found: 10
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 5: 0 (0.0%)
+Extra elements found: 13
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 6: 0 (0.0%)
+Extra elements found: 13
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 7: 0 (0.0%)
+Extra elements found: 10
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 8: 0 (0.0%)
+Extra elements found: 16
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 9: 0 (0.0%)
+Extra elements found: 12
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 10: 0 (0.0%)
+Extra elements found: 12
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 11: 0 (0.0%)
+Extra elements found: 11
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 12: 0 (0.0%)
+Extra elements found: 11
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 13: 0 (0.0%)
+Extra elements found: 10
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 14: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 15: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 16: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 17: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 18: 0 (0.0%)
+Extra elements found: 10
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 19: 0 (0.0%)
+Extra elements found: 3
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 20: 0 (0.0%)
+Extra elements found: 4
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 21: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 22: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 23: 0 (0.0%)
+Extra elements found: 3
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 24: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 25: 0 (0.0%)
+Extra elements found: 4
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 26: 0 (0.0%)
+Extra elements found: 2
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 27: 0 (0.0%)
+Extra elements found: 2
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 28: 0 (0.0%)
+Extra elements found: 2
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 29: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 30: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 31: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 32: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 33: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 34: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 35: 0 (0.0%)
+Extra elements found: 2
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 36: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 37: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 38: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 39: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 40: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 41: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 42: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 43: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 44: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 45: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 46: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 47: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Sources count: 418 +100%
+
+Reading ./test_1/AA_661_A118/output/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_100.csv
+
+Estimated number of clusters: 53
+Estimated number of noise points: 0
+Silhoutte score: 0.5775865399964454
+
+
+Main plot ./test_1/AA_661_A118/output/report_20230813T183306/UBC1004_MeanShift_20230813T183352/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_100_all_clusters.png
+Main csv ./test_1/AA_661_A118/output/report_20230813T183306/UBC1004_MeanShift_20230813T183352/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_100_all_clusters.csv
+
+
+Catalogued sources found in cluster 0: 418 (100.0%)
+Extra elements found: 68
+Catalogued sources not found in cluster: 0
+
+
+Catalogued sources found in cluster 1: 0 (0.0%)
+Extra elements found: 73
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 2: 0 (0.0%)
+Extra elements found: 38
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 3: 0 (0.0%)
+Extra elements found: 16
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 4: 0 (0.0%)
+Extra elements found: 17
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 5: 0 (0.0%)
+Extra elements found: 17
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 6: 0 (0.0%)
+Extra elements found: 18
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 7: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 8: 0 (0.0%)
+Extra elements found: 12
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 9: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 10: 0 (0.0%)
+Extra elements found: 21
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 11: 0 (0.0%)
+Extra elements found: 11
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 12: 0 (0.0%)
+Extra elements found: 10
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 13: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 14: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 15: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 16: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 17: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 18: 0 (0.0%)
+Extra elements found: 4
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 19: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 20: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 21: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 22: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 23: 0 (0.0%)
+Extra elements found: 4
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 24: 0 (0.0%)
+Extra elements found: 3
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 25: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 26: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 27: 0 (0.0%)
+Extra elements found: 2
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 28: 0 (0.0%)
+Extra elements found: 2
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 29: 0 (0.0%)
+Extra elements found: 2
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 30: 0 (0.0%)
+Extra elements found: 2
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 31: 0 (0.0%)
+Extra elements found: 2
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 32: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 33: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 34: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 35: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 36: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 37: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 38: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 39: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 40: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 41: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 42: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 43: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 44: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 45: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 46: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 47: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 48: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 49: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 50: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 51: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 52: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Sources count: 418 +300%
+
+Reading ./test_1/AA_661_A118/output/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300.csv
+
+Estimated number of clusters: 44
+Estimated number of noise points: 0
+Silhoutte score: 0.3714657167656721
+
+
+Main plot ./test_1/AA_661_A118/output/report_20230813T183306/UBC1004_MeanShift_20230813T183352/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300_all_clusters.png
+Main csv ./test_1/AA_661_A118/output/report_20230813T183306/UBC1004_MeanShift_20230813T183352/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_300_all_clusters.csv
+
+
+Catalogued sources found in cluster 0: 418 (100.0%)
+Extra elements found: 504
+Catalogued sources not found in cluster: 0
+
+
+Catalogued sources found in cluster 1: 0 (0.0%)
+Extra elements found: 152
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 2: 0 (0.0%)
+Extra elements found: 63
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 3: 0 (0.0%)
+Extra elements found: 52
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 4: 0 (0.0%)
+Extra elements found: 57
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 5: 0 (0.0%)
+Extra elements found: 39
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 6: 0 (0.0%)
+Extra elements found: 32
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 7: 0 (0.0%)
+Extra elements found: 62
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 8: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 9: 0 (0.0%)
+Extra elements found: 20
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 10: 0 (0.0%)
+Extra elements found: 49
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 11: 0 (0.0%)
+Extra elements found: 32
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 12: 0 (0.0%)
+Extra elements found: 13
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 13: 0 (0.0%)
+Extra elements found: 16
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 14: 0 (0.0%)
+Extra elements found: 44
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 15: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 16: 0 (0.0%)
+Extra elements found: 41
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 17: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 18: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 19: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 20: 0 (0.0%)
+Extra elements found: 4
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 21: 0 (0.0%)
+Extra elements found: 3
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 22: 0 (0.0%)
+Extra elements found: 2
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 23: 0 (0.0%)
+Extra elements found: 3
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 24: 0 (0.0%)
+Extra elements found: 2
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 25: 0 (0.0%)
+Extra elements found: 3
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 26: 0 (0.0%)
+Extra elements found: 2
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 27: 0 (0.0%)
+Extra elements found: 2
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 28: 0 (0.0%)
+Extra elements found: 4
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 29: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 30: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 31: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 32: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 33: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 34: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 35: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 36: 0 (0.0%)
+Extra elements found: 3
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 37: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 38: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 39: 0 (0.0%)
+Extra elements found: 2
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 40: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 41: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 42: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 43: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Sources count: 418 +500%
+
+Reading ./test_1/AA_661_A118/output/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_500.csv
+
+Estimated number of clusters: 47
+Estimated number of noise points: 0
+Silhoutte score: 0.282227809140098
+
+
+Main plot ./test_1/AA_661_A118/output/report_20230813T183306/UBC1004_MeanShift_20230813T183352/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_500_all_clusters.png
+Main csv ./test_1/AA_661_A118/output/report_20230813T183306/UBC1004_MeanShift_20230813T183352/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_500_all_clusters.csv
+
+
+Catalogued sources found in cluster 0: 418 (100.0%)
+Extra elements found: 1249
+Catalogued sources not found in cluster: 0
+
+
+Catalogued sources found in cluster 1: 0 (0.0%)
+Extra elements found: 163
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 2: 0 (0.0%)
+Extra elements found: 174
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 3: 0 (0.0%)
+Extra elements found: 125
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 4: 0 (0.0%)
+Extra elements found: 57
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 5: 0 (0.0%)
+Extra elements found: 47
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 6: 0 (0.0%)
+Extra elements found: 34
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 7: 0 (0.0%)
+Extra elements found: 54
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 8: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 9: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 10: 0 (0.0%)
+Extra elements found: 25
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 11: 0 (0.0%)
+Extra elements found: 43
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 12: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 13: 0 (0.0%)
+Extra elements found: 45
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 14: 0 (0.0%)
+Extra elements found: 3
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 15: 0 (0.0%)
+Extra elements found: 3
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 16: 0 (0.0%)
+Extra elements found: 2
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 17: 0 (0.0%)
+Extra elements found: 2
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 18: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 19: 0 (0.0%)
+Extra elements found: 2
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 20: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 21: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 22: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 23: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 24: 0 (0.0%)
+Extra elements found: 2
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 25: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 26: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 27: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 28: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 29: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 30: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 31: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 32: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 33: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 34: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 35: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 36: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 37: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 38: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 39: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 40: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 41: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 42: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 43: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 44: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 45: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 46: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Sources count: 418 +1000%
+
+Reading ./test_1/AA_661_A118/output/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000.csv
+
+Estimated number of clusters: 61
+Estimated number of noise points: 0
+Silhoutte score: 0.22776166741559573
+
+
+Main plot ./test_1/AA_661_A118/output/report_20230813T183306/UBC1004_MeanShift_20230813T183352/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_all_clusters.png
+Main csv ./test_1/AA_661_A118/output/report_20230813T183306/UBC1004_MeanShift_20230813T183352/gaia_query_UBC1004_gaiaedr3.gaia_source_sample_1000_all_clusters.csv
+
+
+Catalogued sources found in cluster 0: 418 (100.0%)
+Extra elements found: 2826
+Catalogued sources not found in cluster: 0
+
+
+Catalogued sources found in cluster 1: 0 (0.0%)
+Extra elements found: 482
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 2: 0 (0.0%)
+Extra elements found: 228
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 3: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 4: 0 (0.0%)
+Extra elements found: 49
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 5: 0 (0.0%)
+Extra elements found: 82
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 6: 0 (0.0%)
+Extra elements found: 88
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 7: 0 (0.0%)
+Extra elements found: 120
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 8: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 9: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 10: 0 (0.0%)
+Extra elements found: 39
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 11: 0 (0.0%)
+Extra elements found: 17
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 12: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 13: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 14: 0 (0.0%)
+Extra elements found: 61
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 15: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 16: 0 (0.0%)
+Extra elements found: 18
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 17: 0 (0.0%)
+Extra elements found: 6
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 18: 0 (0.0%)
+Extra elements found: 3
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 19: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 20: 0 (0.0%)
+Extra elements found: 3
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 21: 0 (0.0%)
+Extra elements found: 3
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 22: 0 (0.0%)
+Extra elements found: 61
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 23: 0 (0.0%)
+Extra elements found: 2
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 24: 0 (0.0%)
+Extra elements found: 2
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 25: 0 (0.0%)
+Extra elements found: 2
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 26: 0 (0.0%)
+Extra elements found: 2
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 27: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 28: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 29: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 30: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 31: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 32: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 33: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 34: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 35: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 36: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 37: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 38: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 39: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 40: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 41: 0 (0.0%)
+Extra elements found: 2
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 42: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 43: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 44: 0 (0.0%)
+Extra elements found: 4
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 45: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 46: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 47: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 48: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 49: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 50: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 51: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 52: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 53: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 54: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 55: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 56: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 57: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 58: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 59: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Catalogued sources found in cluster 60: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 418
+
+
+Multi-model metrics:
+UBC1004 418 75 DBSCAN
+UBC1004 (418+75%) DBSCAN - Estimated number of clusters: 1 (Silhouette: 0.4076)
+UBC1004 (418+75%) DBSCAN - Cluster 0. Found: 418 (100.0%). Missed: 0. New: 7/6. Noise: 306
+UBC1004 418 100 DBSCAN
+UBC1004 (418+100%) DBSCAN - Estimated number of clusters: 1 (Silhouette: 0.3113)
+UBC1004 (418+100%) DBSCAN - Cluster 0. Found: 418 (100.0%). Missed: 0. New: 14/10. Noise: 404
+UBC1004 418 300 DBSCAN
+UBC1004 (418+300%) DBSCAN - Estimated number of clusters: 13 (Silhouette: -0.1711)
+UBC1004 (418+300%) DBSCAN - Cluster 0. Found: 418 (100.0%). Missed: 0. New: 42/17. Noise: 1212
+UBC1004 (418+300%) DBSCAN - Cluster 1. Found: 0 (0.0%). Missed: 418. New: 20/0. Noise: 1652
+UBC1004 (418+300%) DBSCAN - Cluster 2. Found: 0 (0.0%). Missed: 418. New: 11/0. Noise: 1661
+UBC1004 (418+300%) DBSCAN - Cluster 3. Found: 0 (0.0%). Missed: 418. New: 8/0. Noise: 1664
+UBC1004 (418+300%) DBSCAN - Cluster 4. Found: 0 (0.0%). Missed: 418. New: 13/0. Noise: 1659
+UBC1004 (418+300%) DBSCAN - Cluster 5. Found: 0 (0.0%). Missed: 418. New: 8/0. Noise: 1664
+UBC1004 (418+300%) DBSCAN - Cluster 6. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 1667
+UBC1004 (418+300%) DBSCAN - Cluster 7. Found: 0 (0.0%). Missed: 418. New: 6/0. Noise: 1666
+UBC1004 (418+300%) DBSCAN - Cluster 8. Found: 0 (0.0%). Missed: 418. New: 12/0. Noise: 1660
+UBC1004 (418+300%) DBSCAN - Cluster 9. Found: 0 (0.0%). Missed: 418. New: 6/0. Noise: 1666
+UBC1004 (418+300%) DBSCAN - Cluster 10. Found: 0 (0.0%). Missed: 418. New: 6/0. Noise: 1666
+UBC1004 (418+300%) DBSCAN - Cluster 11. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 1667
+UBC1004 (418+300%) DBSCAN - Cluster 12. Found: 0 (0.0%). Missed: 418. New: 6/0. Noise: 1666
+UBC1004 418 500 DBSCAN
+UBC1004 (418+500%) DBSCAN - Estimated number of clusters: 53 (Silhouette: -0.2976)
+UBC1004 (418+500%) DBSCAN - Cluster 0. Found: 0 (0.0%). Missed: 418. New: 16/0. Noise: 2492
+UBC1004 (418+500%) DBSCAN - Cluster 1. Found: 418 (100.0%). Missed: 0. New: 408/42. Noise: 1682
+UBC1004 (418+500%) DBSCAN - Cluster 2. Found: 0 (0.0%). Missed: 418. New: 10/0. Noise: 2498
+UBC1004 (418+500%) DBSCAN - Cluster 3. Found: 0 (0.0%). Missed: 418. New: 22/0. Noise: 2486
+UBC1004 (418+500%) DBSCAN - Cluster 4. Found: 0 (0.0%). Missed: 418. New: 9/0. Noise: 2499
+UBC1004 (418+500%) DBSCAN - Cluster 5. Found: 0 (0.0%). Missed: 418. New: 22/0. Noise: 2486
+UBC1004 (418+500%) DBSCAN - Cluster 6. Found: 0 (0.0%). Missed: 418. New: 10/0. Noise: 2498
+UBC1004 (418+500%) DBSCAN - Cluster 7. Found: 0 (0.0%). Missed: 418. New: 38/0. Noise: 2470
+UBC1004 (418+500%) DBSCAN - Cluster 8. Found: 0 (0.0%). Missed: 418. New: 6/0. Noise: 2502
+UBC1004 (418+500%) DBSCAN - Cluster 9. Found: 0 (0.0%). Missed: 418. New: 17/0. Noise: 2491
+UBC1004 (418+500%) DBSCAN - Cluster 10. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 2503
+UBC1004 (418+500%) DBSCAN - Cluster 11. Found: 0 (0.0%). Missed: 418. New: 25/0. Noise: 2483
+UBC1004 (418+500%) DBSCAN - Cluster 12. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 2503
+UBC1004 (418+500%) DBSCAN - Cluster 13. Found: 0 (0.0%). Missed: 418. New: 23/0. Noise: 2485
+UBC1004 (418+500%) DBSCAN - Cluster 14. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 2503
+UBC1004 (418+500%) DBSCAN - Cluster 15. Found: 0 (0.0%). Missed: 418. New: 11/0. Noise: 2497
+UBC1004 (418+500%) DBSCAN - Cluster 16. Found: 0 (0.0%). Missed: 418. New: 4/0. Noise: 2504
+UBC1004 (418+500%) DBSCAN - Cluster 17. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 2503
+UBC1004 (418+500%) DBSCAN - Cluster 18. Found: 0 (0.0%). Missed: 418. New: 10/0. Noise: 2498
+UBC1004 (418+500%) DBSCAN - Cluster 19. Found: 0 (0.0%). Missed: 418. New: 8/0. Noise: 2500
+UBC1004 (418+500%) DBSCAN - Cluster 20. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 2503
+UBC1004 (418+500%) DBSCAN - Cluster 21. Found: 0 (0.0%). Missed: 418. New: 8/0. Noise: 2500
+UBC1004 (418+500%) DBSCAN - Cluster 22. Found: 0 (0.0%). Missed: 418. New: 11/0. Noise: 2497
+UBC1004 (418+500%) DBSCAN - Cluster 23. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 2503
+UBC1004 (418+500%) DBSCAN - Cluster 24. Found: 0 (0.0%). Missed: 418. New: 9/0. Noise: 2499
+UBC1004 (418+500%) DBSCAN - Cluster 25. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 2503
+UBC1004 (418+500%) DBSCAN - Cluster 26. Found: 0 (0.0%). Missed: 418. New: 9/0. Noise: 2499
+UBC1004 (418+500%) DBSCAN - Cluster 27. Found: 0 (0.0%). Missed: 418. New: 9/0. Noise: 2499
+UBC1004 (418+500%) DBSCAN - Cluster 28. Found: 0 (0.0%). Missed: 418. New: 10/0. Noise: 2498
+UBC1004 (418+500%) DBSCAN - Cluster 29. Found: 0 (0.0%). Missed: 418. New: 7/0. Noise: 2501
+UBC1004 (418+500%) DBSCAN - Cluster 30. Found: 0 (0.0%). Missed: 418. New: 9/0. Noise: 2499
+UBC1004 (418+500%) DBSCAN - Cluster 31. Found: 0 (0.0%). Missed: 418. New: 9/0. Noise: 2499
+UBC1004 (418+500%) DBSCAN - Cluster 32. Found: 0 (0.0%). Missed: 418. New: 6/0. Noise: 2502
+UBC1004 (418+500%) DBSCAN - Cluster 33. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 2503
+UBC1004 (418+500%) DBSCAN - Cluster 34. Found: 0 (0.0%). Missed: 418. New: 6/0. Noise: 2502
+UBC1004 (418+500%) DBSCAN - Cluster 35. Found: 0 (0.0%). Missed: 418. New: 6/0. Noise: 2502
+UBC1004 (418+500%) DBSCAN - Cluster 36. Found: 0 (0.0%). Missed: 418. New: 7/0. Noise: 2501
+UBC1004 (418+500%) DBSCAN - Cluster 37. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 2503
+UBC1004 (418+500%) DBSCAN - Cluster 38. Found: 0 (0.0%). Missed: 418. New: 9/0. Noise: 2499
+UBC1004 (418+500%) DBSCAN - Cluster 39. Found: 0 (0.0%). Missed: 418. New: 9/0. Noise: 2499
+UBC1004 (418+500%) DBSCAN - Cluster 40. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 2503
+UBC1004 (418+500%) DBSCAN - Cluster 41. Found: 0 (0.0%). Missed: 418. New: 8/0. Noise: 2500
+UBC1004 (418+500%) DBSCAN - Cluster 42. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 2503
+UBC1004 (418+500%) DBSCAN - Cluster 43. Found: 0 (0.0%). Missed: 418. New: 6/0. Noise: 2502
+UBC1004 (418+500%) DBSCAN - Cluster 44. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 2503
+UBC1004 (418+500%) DBSCAN - Cluster 45. Found: 0 (0.0%). Missed: 418. New: 4/0. Noise: 2504
+UBC1004 (418+500%) DBSCAN - Cluster 46. Found: 0 (0.0%). Missed: 418. New: 3/0. Noise: 2505
+UBC1004 (418+500%) DBSCAN - Cluster 47. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 2503
+UBC1004 (418+500%) DBSCAN - Cluster 48. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 2503
+UBC1004 (418+500%) DBSCAN - Cluster 49. Found: 0 (0.0%). Missed: 418. New: 7/0. Noise: 2501
+UBC1004 (418+500%) DBSCAN - Cluster 50. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 2503
+UBC1004 (418+500%) DBSCAN - Cluster 51. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 2503
+UBC1004 (418+500%) DBSCAN - Cluster 52. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 2503
+UBC1004 418 1000 DBSCAN
+UBC1004 (418+1000%) DBSCAN - Estimated number of clusters: 82 (Silhouette: -0.3611)
+UBC1004 (418+1000%) DBSCAN - Cluster 0. Found: 418 (100.0%). Missed: 0. New: 1569/80. Noise: 2611
+UBC1004 (418+1000%) DBSCAN - Cluster 1. Found: 0 (0.0%). Missed: 418. New: 6/0. Noise: 4592
+UBC1004 (418+1000%) DBSCAN - Cluster 2. Found: 0 (0.0%). Missed: 418. New: 49/0. Noise: 4549
+UBC1004 (418+1000%) DBSCAN - Cluster 3. Found: 0 (0.0%). Missed: 418. New: 22/0. Noise: 4576
+UBC1004 (418+1000%) DBSCAN - Cluster 4. Found: 0 (0.0%). Missed: 418. New: 11/0. Noise: 4587
+UBC1004 (418+1000%) DBSCAN - Cluster 5. Found: 0 (0.0%). Missed: 418. New: 24/0. Noise: 4574
+UBC1004 (418+1000%) DBSCAN - Cluster 6. Found: 0 (0.0%). Missed: 418. New: 6/0. Noise: 4592
+UBC1004 (418+1000%) DBSCAN - Cluster 7. Found: 0 (0.0%). Missed: 418. New: 37/0. Noise: 4561
+UBC1004 (418+1000%) DBSCAN - Cluster 8. Found: 0 (0.0%). Missed: 418. New: 20/0. Noise: 4578
+UBC1004 (418+1000%) DBSCAN - Cluster 9. Found: 0 (0.0%). Missed: 418. New: 12/0. Noise: 4586
+UBC1004 (418+1000%) DBSCAN - Cluster 10. Found: 0 (0.0%). Missed: 418. New: 9/0. Noise: 4589
+UBC1004 (418+1000%) DBSCAN - Cluster 11. Found: 0 (0.0%). Missed: 418. New: 6/0. Noise: 4592
+UBC1004 (418+1000%) DBSCAN - Cluster 12. Found: 0 (0.0%). Missed: 418. New: 19/0. Noise: 4579
+UBC1004 (418+1000%) DBSCAN - Cluster 13. Found: 0 (0.0%). Missed: 418. New: 8/0. Noise: 4590
+UBC1004 (418+1000%) DBSCAN - Cluster 14. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 4593
+UBC1004 (418+1000%) DBSCAN - Cluster 15. Found: 0 (0.0%). Missed: 418. New: 23/0. Noise: 4575
+UBC1004 (418+1000%) DBSCAN - Cluster 16. Found: 0 (0.0%). Missed: 418. New: 18/0. Noise: 4580
+UBC1004 (418+1000%) DBSCAN - Cluster 17. Found: 0 (0.0%). Missed: 418. New: 11/0. Noise: 4587
+UBC1004 (418+1000%) DBSCAN - Cluster 18. Found: 0 (0.0%). Missed: 418. New: 12/0. Noise: 4586
+UBC1004 (418+1000%) DBSCAN - Cluster 19. Found: 0 (0.0%). Missed: 418. New: 4/0. Noise: 4594
+UBC1004 (418+1000%) DBSCAN - Cluster 20. Found: 0 (0.0%). Missed: 418. New: 9/0. Noise: 4589
+UBC1004 (418+1000%) DBSCAN - Cluster 21. Found: 0 (0.0%). Missed: 418. New: 9/0. Noise: 4589
+UBC1004 (418+1000%) DBSCAN - Cluster 22. Found: 0 (0.0%). Missed: 418. New: 6/0. Noise: 4592
+UBC1004 (418+1000%) DBSCAN - Cluster 23. Found: 0 (0.0%). Missed: 418. New: 24/0. Noise: 4574
+UBC1004 (418+1000%) DBSCAN - Cluster 24. Found: 0 (0.0%). Missed: 418. New: 6/0. Noise: 4592
+UBC1004 (418+1000%) DBSCAN - Cluster 25. Found: 0 (0.0%). Missed: 418. New: 10/0. Noise: 4588
+UBC1004 (418+1000%) DBSCAN - Cluster 26. Found: 0 (0.0%). Missed: 418. New: 12/0. Noise: 4586
+UBC1004 (418+1000%) DBSCAN - Cluster 27. Found: 0 (0.0%). Missed: 418. New: 17/0. Noise: 4581
+UBC1004 (418+1000%) DBSCAN - Cluster 28. Found: 0 (0.0%). Missed: 418. New: 24/0. Noise: 4574
+UBC1004 (418+1000%) DBSCAN - Cluster 29. Found: 0 (0.0%). Missed: 418. New: 9/0. Noise: 4589
+UBC1004 (418+1000%) DBSCAN - Cluster 30. Found: 0 (0.0%). Missed: 418. New: 6/0. Noise: 4592
+UBC1004 (418+1000%) DBSCAN - Cluster 31. Found: 0 (0.0%). Missed: 418. New: 8/0. Noise: 4590
+UBC1004 (418+1000%) DBSCAN - Cluster 32. Found: 0 (0.0%). Missed: 418. New: 10/0. Noise: 4588
+UBC1004 (418+1000%) DBSCAN - Cluster 33. Found: 0 (0.0%). Missed: 418. New: 7/0. Noise: 4591
+UBC1004 (418+1000%) DBSCAN - Cluster 34. Found: 0 (0.0%). Missed: 418. New: 10/0. Noise: 4588
+UBC1004 (418+1000%) DBSCAN - Cluster 35. Found: 0 (0.0%). Missed: 418. New: 7/0. Noise: 4591
+UBC1004 (418+1000%) DBSCAN - Cluster 36. Found: 0 (0.0%). Missed: 418. New: 6/0. Noise: 4592
+UBC1004 (418+1000%) DBSCAN - Cluster 37. Found: 0 (0.0%). Missed: 418. New: 11/0. Noise: 4587
+UBC1004 (418+1000%) DBSCAN - Cluster 38. Found: 0 (0.0%). Missed: 418. New: 6/0. Noise: 4592
+UBC1004 (418+1000%) DBSCAN - Cluster 39. Found: 0 (0.0%). Missed: 418. New: 12/0. Noise: 4586
+UBC1004 (418+1000%) DBSCAN - Cluster 40. Found: 0 (0.0%). Missed: 418. New: 4/0. Noise: 4594
+UBC1004 (418+1000%) DBSCAN - Cluster 41. Found: 0 (0.0%). Missed: 418. New: 4/0. Noise: 4594
+UBC1004 (418+1000%) DBSCAN - Cluster 42. Found: 0 (0.0%). Missed: 418. New: 6/0. Noise: 4592
+UBC1004 (418+1000%) DBSCAN - Cluster 43. Found: 0 (0.0%). Missed: 418. New: 4/0. Noise: 4594
+UBC1004 (418+1000%) DBSCAN - Cluster 44. Found: 0 (0.0%). Missed: 418. New: 14/0. Noise: 4584
+UBC1004 (418+1000%) DBSCAN - Cluster 45. Found: 0 (0.0%). Missed: 418. New: 6/0. Noise: 4592
+UBC1004 (418+1000%) DBSCAN - Cluster 46. Found: 0 (0.0%). Missed: 418. New: 10/0. Noise: 4588
+UBC1004 (418+1000%) DBSCAN - Cluster 47. Found: 0 (0.0%). Missed: 418. New: 7/0. Noise: 4591
+UBC1004 (418+1000%) DBSCAN - Cluster 48. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 4593
+UBC1004 (418+1000%) DBSCAN - Cluster 49. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 4593
+UBC1004 (418+1000%) DBSCAN - Cluster 50. Found: 0 (0.0%). Missed: 418. New: 7/0. Noise: 4591
+UBC1004 (418+1000%) DBSCAN - Cluster 51. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 4593
+UBC1004 (418+1000%) DBSCAN - Cluster 52. Found: 0 (0.0%). Missed: 418. New: 6/0. Noise: 4592
+UBC1004 (418+1000%) DBSCAN - Cluster 53. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 4593
+UBC1004 (418+1000%) DBSCAN - Cluster 54. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 4593
+UBC1004 (418+1000%) DBSCAN - Cluster 55. Found: 0 (0.0%). Missed: 418. New: 9/0. Noise: 4589
+UBC1004 (418+1000%) DBSCAN - Cluster 56. Found: 0 (0.0%). Missed: 418. New: 8/0. Noise: 4590
+UBC1004 (418+1000%) DBSCAN - Cluster 57. Found: 0 (0.0%). Missed: 418. New: 8/0. Noise: 4590
+UBC1004 (418+1000%) DBSCAN - Cluster 58. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 4593
+UBC1004 (418+1000%) DBSCAN - Cluster 59. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 4593
+UBC1004 (418+1000%) DBSCAN - Cluster 60. Found: 0 (0.0%). Missed: 418. New: 8/0. Noise: 4590
+UBC1004 (418+1000%) DBSCAN - Cluster 61. Found: 0 (0.0%). Missed: 418. New: 6/0. Noise: 4592
+UBC1004 (418+1000%) DBSCAN - Cluster 62. Found: 0 (0.0%). Missed: 418. New: 8/0. Noise: 4590
+UBC1004 (418+1000%) DBSCAN - Cluster 63. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 4593
+UBC1004 (418+1000%) DBSCAN - Cluster 64. Found: 0 (0.0%). Missed: 418. New: 6/0. Noise: 4592
+UBC1004 (418+1000%) DBSCAN - Cluster 65. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 4593
+UBC1004 (418+1000%) DBSCAN - Cluster 66. Found: 0 (0.0%). Missed: 418. New: 6/0. Noise: 4592
+UBC1004 (418+1000%) DBSCAN - Cluster 67. Found: 0 (0.0%). Missed: 418. New: 12/0. Noise: 4586
+UBC1004 (418+1000%) DBSCAN - Cluster 68. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 4593
+UBC1004 (418+1000%) DBSCAN - Cluster 69. Found: 0 (0.0%). Missed: 418. New: 7/0. Noise: 4591
+UBC1004 (418+1000%) DBSCAN - Cluster 70. Found: 0 (0.0%). Missed: 418. New: 6/0. Noise: 4592
+UBC1004 (418+1000%) DBSCAN - Cluster 71. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 4593
+UBC1004 (418+1000%) DBSCAN - Cluster 72. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 4593
+UBC1004 (418+1000%) DBSCAN - Cluster 73. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 4593
+UBC1004 (418+1000%) DBSCAN - Cluster 74. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 4593
+UBC1004 (418+1000%) DBSCAN - Cluster 75. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 4593
+UBC1004 (418+1000%) DBSCAN - Cluster 76. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 4593
+UBC1004 (418+1000%) DBSCAN - Cluster 77. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 4593
+UBC1004 (418+1000%) DBSCAN - Cluster 78. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 4593
+UBC1004 (418+1000%) DBSCAN - Cluster 79. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 4593
+UBC1004 (418+1000%) DBSCAN - Cluster 80. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 4593
+UBC1004 (418+1000%) DBSCAN - Cluster 81. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 4593
+
+
+Params: {'algorithm': 'auto', 'eps': 0.05, 'leaf_size': 30, 'metric': 'euclidean', 'metric_params': None, 'min_samples': 5, 'n_jobs': None, 'p': None}
+
+UBC1004 418 75 OPTICS
+UBC1004 (418+75%) OPTICS - Estimated number of clusters: 1 (Silhouette: 0.2722)
+UBC1004 (418+75%) OPTICS - Cluster 0. Found: 367 (87.8%). Missed: 51. New: 1/1. Noise: 363
+UBC1004 418 100 OPTICS
+UBC1004 (418+100%) OPTICS - Estimated number of clusters: 1 (Silhouette: 0.3243)
+UBC1004 (418+100%) OPTICS - Cluster 0. Found: 418 (100.0%). Missed: 0. New: 21/10. Noise: 397
+UBC1004 418 300 OPTICS
+UBC1004 (418+300%) OPTICS - Estimated number of clusters: 1 (Silhouette: 0.2748)
+UBC1004 (418+300%) OPTICS - Cluster 0. Found: 418 (100.0%). Missed: 0. New: 421/17. Noise: 833
+UBC1004 418 500 OPTICS
+UBC1004 (418+500%) OPTICS - Estimated number of clusters: 1 (Silhouette: 0.2222)
+UBC1004 (418+500%) OPTICS - Cluster 0. Found: 418 (100.0%). Missed: 0. New: 836/42. Noise: 1254
+UBC1004 418 1000 OPTICS
+UBC1004 (418+1000%) OPTICS - Estimated number of clusters: 1 (Silhouette: 0.2364)
+UBC1004 (418+1000%) OPTICS - Cluster 0. Found: 418 (100.0%). Missed: 0. New: 1890/80. Noise: 2290
+
+
+Params: {'algorithm': 'auto', 'cluster_method': 'xi', 'eps': None, 'leaf_size': 30, 'max_eps': inf, 'metric': 'minkowski', 'metric_params': None, 'min_cluster_size': 0.5, 'min_samples': 5, 'n_jobs': None, 'p': 2, 'predecessor_correction': True, 'xi': 0.001}
+
+UBC1004 418 75 MeanShift
+UBC1004 (418+75%) MeanShift - Estimated number of clusters: 48 (Silhouette: 0.6166)
+UBC1004 (418+75%) MeanShift - Cluster 0. Found: 418 (100.0%). Missed: 0. New: 56/6. Noise: 257
+UBC1004 (418+75%) MeanShift - Cluster 1. Found: 0 (0.0%). Missed: 418. New: 23/0. Noise: 708
+UBC1004 (418+75%) MeanShift - Cluster 2. Found: 0 (0.0%). Missed: 418. New: 14/0. Noise: 717
+UBC1004 (418+75%) MeanShift - Cluster 3. Found: 0 (0.0%). Missed: 418. New: 16/0. Noise: 715
+UBC1004 (418+75%) MeanShift - Cluster 4. Found: 0 (0.0%). Missed: 418. New: 10/0. Noise: 721
+UBC1004 (418+75%) MeanShift - Cluster 5. Found: 0 (0.0%). Missed: 418. New: 13/0. Noise: 718
+UBC1004 (418+75%) MeanShift - Cluster 6. Found: 0 (0.0%). Missed: 418. New: 13/0. Noise: 718
+UBC1004 (418+75%) MeanShift - Cluster 7. Found: 0 (0.0%). Missed: 418. New: 10/0. Noise: 721
+UBC1004 (418+75%) MeanShift - Cluster 8. Found: 0 (0.0%). Missed: 418. New: 16/0. Noise: 715
+UBC1004 (418+75%) MeanShift - Cluster 9. Found: 0 (0.0%). Missed: 418. New: 12/0. Noise: 719
+UBC1004 (418+75%) MeanShift - Cluster 10. Found: 0 (0.0%). Missed: 418. New: 12/0. Noise: 719
+UBC1004 (418+75%) MeanShift - Cluster 11. Found: 0 (0.0%). Missed: 418. New: 11/0. Noise: 720
+UBC1004 (418+75%) MeanShift - Cluster 12. Found: 0 (0.0%). Missed: 418. New: 11/0. Noise: 720
+UBC1004 (418+75%) MeanShift - Cluster 13. Found: 0 (0.0%). Missed: 418. New: 10/0. Noise: 721
+UBC1004 (418+75%) MeanShift - Cluster 14. Found: 0 (0.0%). Missed: 418. New: 7/0. Noise: 724
+UBC1004 (418+75%) MeanShift - Cluster 15. Found: 0 (0.0%). Missed: 418. New: 7/0. Noise: 724
+UBC1004 (418+75%) MeanShift - Cluster 16. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 726
+UBC1004 (418+75%) MeanShift - Cluster 17. Found: 0 (0.0%). Missed: 418. New: 6/0. Noise: 725
+UBC1004 (418+75%) MeanShift - Cluster 18. Found: 0 (0.0%). Missed: 418. New: 10/0. Noise: 721
+UBC1004 (418+75%) MeanShift - Cluster 19. Found: 0 (0.0%). Missed: 418. New: 3/0. Noise: 728
+UBC1004 (418+75%) MeanShift - Cluster 20. Found: 0 (0.0%). Missed: 418. New: 4/0. Noise: 727
+UBC1004 (418+75%) MeanShift - Cluster 21. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 726
+UBC1004 (418+75%) MeanShift - Cluster 22. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 726
+UBC1004 (418+75%) MeanShift - Cluster 23. Found: 0 (0.0%). Missed: 418. New: 3/0. Noise: 728
+UBC1004 (418+75%) MeanShift - Cluster 24. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 730
+UBC1004 (418+75%) MeanShift - Cluster 25. Found: 0 (0.0%). Missed: 418. New: 4/0. Noise: 727
+UBC1004 (418+75%) MeanShift - Cluster 26. Found: 0 (0.0%). Missed: 418. New: 2/0. Noise: 729
+UBC1004 (418+75%) MeanShift - Cluster 27. Found: 0 (0.0%). Missed: 418. New: 2/0. Noise: 729
+UBC1004 (418+75%) MeanShift - Cluster 28. Found: 0 (0.0%). Missed: 418. New: 2/0. Noise: 729
+UBC1004 (418+75%) MeanShift - Cluster 29. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 730
+UBC1004 (418+75%) MeanShift - Cluster 30. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 730
+UBC1004 (418+75%) MeanShift - Cluster 31. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 730
+UBC1004 (418+75%) MeanShift - Cluster 32. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 730
+UBC1004 (418+75%) MeanShift - Cluster 33. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 730
+UBC1004 (418+75%) MeanShift - Cluster 34. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 730
+UBC1004 (418+75%) MeanShift - Cluster 35. Found: 0 (0.0%). Missed: 418. New: 2/0. Noise: 729
+UBC1004 (418+75%) MeanShift - Cluster 36. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 730
+UBC1004 (418+75%) MeanShift - Cluster 37. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 730
+UBC1004 (418+75%) MeanShift - Cluster 38. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 730
+UBC1004 (418+75%) MeanShift - Cluster 39. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 730
+UBC1004 (418+75%) MeanShift - Cluster 40. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 730
+UBC1004 (418+75%) MeanShift - Cluster 41. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 730
+UBC1004 (418+75%) MeanShift - Cluster 42. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 730
+UBC1004 (418+75%) MeanShift - Cluster 43. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 730
+UBC1004 (418+75%) MeanShift - Cluster 44. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 730
+UBC1004 (418+75%) MeanShift - Cluster 45. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 730
+UBC1004 (418+75%) MeanShift - Cluster 46. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 730
+UBC1004 (418+75%) MeanShift - Cluster 47. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 730
+UBC1004 418 100 MeanShift
+UBC1004 (418+100%) MeanShift - Estimated number of clusters: 53 (Silhouette: 0.5776)
+UBC1004 (418+100%) MeanShift - Cluster 0. Found: 418 (100.0%). Missed: 0. New: 68/10. Noise: 350
+UBC1004 (418+100%) MeanShift - Cluster 1. Found: 0 (0.0%). Missed: 418. New: 73/0. Noise: 763
+UBC1004 (418+100%) MeanShift - Cluster 2. Found: 0 (0.0%). Missed: 418. New: 38/0. Noise: 798
+UBC1004 (418+100%) MeanShift - Cluster 3. Found: 0 (0.0%). Missed: 418. New: 16/0. Noise: 820
+UBC1004 (418+100%) MeanShift - Cluster 4. Found: 0 (0.0%). Missed: 418. New: 17/0. Noise: 819
+UBC1004 (418+100%) MeanShift - Cluster 5. Found: 0 (0.0%). Missed: 418. New: 17/0. Noise: 819
+UBC1004 (418+100%) MeanShift - Cluster 6. Found: 0 (0.0%). Missed: 418. New: 18/0. Noise: 818
+UBC1004 (418+100%) MeanShift - Cluster 7. Found: 0 (0.0%). Missed: 418. New: 9/0. Noise: 827
+UBC1004 (418+100%) MeanShift - Cluster 8. Found: 0 (0.0%). Missed: 418. New: 12/0. Noise: 824
+UBC1004 (418+100%) MeanShift - Cluster 9. Found: 0 (0.0%). Missed: 418. New: 7/0. Noise: 829
+UBC1004 (418+100%) MeanShift - Cluster 10. Found: 0 (0.0%). Missed: 418. New: 21/0. Noise: 815
+UBC1004 (418+100%) MeanShift - Cluster 11. Found: 0 (0.0%). Missed: 418. New: 11/0. Noise: 825
+UBC1004 (418+100%) MeanShift - Cluster 12. Found: 0 (0.0%). Missed: 418. New: 10/0. Noise: 826
+UBC1004 (418+100%) MeanShift - Cluster 13. Found: 0 (0.0%). Missed: 418. New: 8/0. Noise: 828
+UBC1004 (418+100%) MeanShift - Cluster 14. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 831
+UBC1004 (418+100%) MeanShift - Cluster 15. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 831
+UBC1004 (418+100%) MeanShift - Cluster 16. Found: 0 (0.0%). Missed: 418. New: 9/0. Noise: 827
+UBC1004 (418+100%) MeanShift - Cluster 17. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 831
+UBC1004 (418+100%) MeanShift - Cluster 18. Found: 0 (0.0%). Missed: 418. New: 4/0. Noise: 832
+UBC1004 (418+100%) MeanShift - Cluster 19. Found: 0 (0.0%). Missed: 418. New: 6/0. Noise: 830
+UBC1004 (418+100%) MeanShift - Cluster 20. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 831
+UBC1004 (418+100%) MeanShift - Cluster 21. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 831
+UBC1004 (418+100%) MeanShift - Cluster 22. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 831
+UBC1004 (418+100%) MeanShift - Cluster 23. Found: 0 (0.0%). Missed: 418. New: 4/0. Noise: 832
+UBC1004 (418+100%) MeanShift - Cluster 24. Found: 0 (0.0%). Missed: 418. New: 3/0. Noise: 833
+UBC1004 (418+100%) MeanShift - Cluster 25. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 831
+UBC1004 (418+100%) MeanShift - Cluster 26. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 835
+UBC1004 (418+100%) MeanShift - Cluster 27. Found: 0 (0.0%). Missed: 418. New: 2/0. Noise: 834
+UBC1004 (418+100%) MeanShift - Cluster 28. Found: 0 (0.0%). Missed: 418. New: 2/0. Noise: 834
+UBC1004 (418+100%) MeanShift - Cluster 29. Found: 0 (0.0%). Missed: 418. New: 2/0. Noise: 834
+UBC1004 (418+100%) MeanShift - Cluster 30. Found: 0 (0.0%). Missed: 418. New: 2/0. Noise: 834
+UBC1004 (418+100%) MeanShift - Cluster 31. Found: 0 (0.0%). Missed: 418. New: 2/0. Noise: 834
+UBC1004 (418+100%) MeanShift - Cluster 32. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 835
+UBC1004 (418+100%) MeanShift - Cluster 33. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 835
+UBC1004 (418+100%) MeanShift - Cluster 34. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 835
+UBC1004 (418+100%) MeanShift - Cluster 35. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 835
+UBC1004 (418+100%) MeanShift - Cluster 36. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 835
+UBC1004 (418+100%) MeanShift - Cluster 37. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 835
+UBC1004 (418+100%) MeanShift - Cluster 38. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 835
+UBC1004 (418+100%) MeanShift - Cluster 39. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 835
+UBC1004 (418+100%) MeanShift - Cluster 40. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 835
+UBC1004 (418+100%) MeanShift - Cluster 41. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 835
+UBC1004 (418+100%) MeanShift - Cluster 42. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 835
+UBC1004 (418+100%) MeanShift - Cluster 43. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 835
+UBC1004 (418+100%) MeanShift - Cluster 44. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 835
+UBC1004 (418+100%) MeanShift - Cluster 45. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 835
+UBC1004 (418+100%) MeanShift - Cluster 46. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 835
+UBC1004 (418+100%) MeanShift - Cluster 47. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 835
+UBC1004 (418+100%) MeanShift - Cluster 48. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 835
+UBC1004 (418+100%) MeanShift - Cluster 49. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 835
+UBC1004 (418+100%) MeanShift - Cluster 50. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 835
+UBC1004 (418+100%) MeanShift - Cluster 51. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 835
+UBC1004 (418+100%) MeanShift - Cluster 52. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 835
+UBC1004 418 300 MeanShift
+UBC1004 (418+300%) MeanShift - Estimated number of clusters: 44 (Silhouette: 0.3715)
+UBC1004 (418+300%) MeanShift - Cluster 0. Found: 418 (100.0%). Missed: 0. New: 504/17. Noise: 750
+UBC1004 (418+300%) MeanShift - Cluster 1. Found: 0 (0.0%). Missed: 418. New: 152/0. Noise: 1520
+UBC1004 (418+300%) MeanShift - Cluster 2. Found: 0 (0.0%). Missed: 418. New: 63/0. Noise: 1609
+UBC1004 (418+300%) MeanShift - Cluster 3. Found: 0 (0.0%). Missed: 418. New: 52/0. Noise: 1620
+UBC1004 (418+300%) MeanShift - Cluster 4. Found: 0 (0.0%). Missed: 418. New: 57/0. Noise: 1615
+UBC1004 (418+300%) MeanShift - Cluster 5. Found: 0 (0.0%). Missed: 418. New: 39/0. Noise: 1633
+UBC1004 (418+300%) MeanShift - Cluster 6. Found: 0 (0.0%). Missed: 418. New: 32/0. Noise: 1640
+UBC1004 (418+300%) MeanShift - Cluster 7. Found: 0 (0.0%). Missed: 418. New: 62/0. Noise: 1610
+UBC1004 (418+300%) MeanShift - Cluster 8. Found: 0 (0.0%). Missed: 418. New: 6/0. Noise: 1666
+UBC1004 (418+300%) MeanShift - Cluster 9. Found: 0 (0.0%). Missed: 418. New: 20/0. Noise: 1652
+UBC1004 (418+300%) MeanShift - Cluster 10. Found: 0 (0.0%). Missed: 418. New: 49/0. Noise: 1623
+UBC1004 (418+300%) MeanShift - Cluster 11. Found: 0 (0.0%). Missed: 418. New: 32/0. Noise: 1640
+UBC1004 (418+300%) MeanShift - Cluster 12. Found: 0 (0.0%). Missed: 418. New: 13/0. Noise: 1659
+UBC1004 (418+300%) MeanShift - Cluster 13. Found: 0 (0.0%). Missed: 418. New: 16/0. Noise: 1656
+UBC1004 (418+300%) MeanShift - Cluster 14. Found: 0 (0.0%). Missed: 418. New: 44/0. Noise: 1628
+UBC1004 (418+300%) MeanShift - Cluster 15. Found: 0 (0.0%). Missed: 418. New: 7/0. Noise: 1665
+UBC1004 (418+300%) MeanShift - Cluster 16. Found: 0 (0.0%). Missed: 418. New: 41/0. Noise: 1631
+UBC1004 (418+300%) MeanShift - Cluster 17. Found: 0 (0.0%). Missed: 418. New: 6/0. Noise: 1666
+UBC1004 (418+300%) MeanShift - Cluster 18. Found: 0 (0.0%). Missed: 418. New: 8/0. Noise: 1664
+UBC1004 (418+300%) MeanShift - Cluster 19. Found: 0 (0.0%). Missed: 418. New: 8/0. Noise: 1664
+UBC1004 (418+300%) MeanShift - Cluster 20. Found: 0 (0.0%). Missed: 418. New: 4/0. Noise: 1668
+UBC1004 (418+300%) MeanShift - Cluster 21. Found: 0 (0.0%). Missed: 418. New: 3/0. Noise: 1669
+UBC1004 (418+300%) MeanShift - Cluster 22. Found: 0 (0.0%). Missed: 418. New: 2/0. Noise: 1670
+UBC1004 (418+300%) MeanShift - Cluster 23. Found: 0 (0.0%). Missed: 418. New: 3/0. Noise: 1669
+UBC1004 (418+300%) MeanShift - Cluster 24. Found: 0 (0.0%). Missed: 418. New: 2/0. Noise: 1670
+UBC1004 (418+300%) MeanShift - Cluster 25. Found: 0 (0.0%). Missed: 418. New: 3/0. Noise: 1669
+UBC1004 (418+300%) MeanShift - Cluster 26. Found: 0 (0.0%). Missed: 418. New: 2/0. Noise: 1670
+UBC1004 (418+300%) MeanShift - Cluster 27. Found: 0 (0.0%). Missed: 418. New: 2/0. Noise: 1670
+UBC1004 (418+300%) MeanShift - Cluster 28. Found: 0 (0.0%). Missed: 418. New: 4/0. Noise: 1668
+UBC1004 (418+300%) MeanShift - Cluster 29. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 1671
+UBC1004 (418+300%) MeanShift - Cluster 30. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 1671
+UBC1004 (418+300%) MeanShift - Cluster 31. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 1671
+UBC1004 (418+300%) MeanShift - Cluster 32. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 1671
+UBC1004 (418+300%) MeanShift - Cluster 33. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 1671
+UBC1004 (418+300%) MeanShift - Cluster 34. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 1671
+UBC1004 (418+300%) MeanShift - Cluster 35. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 1671
+UBC1004 (418+300%) MeanShift - Cluster 36. Found: 0 (0.0%). Missed: 418. New: 3/0. Noise: 1669
+UBC1004 (418+300%) MeanShift - Cluster 37. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 1671
+UBC1004 (418+300%) MeanShift - Cluster 38. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 1671
+UBC1004 (418+300%) MeanShift - Cluster 39. Found: 0 (0.0%). Missed: 418. New: 2/0. Noise: 1670
+UBC1004 (418+300%) MeanShift - Cluster 40. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 1671
+UBC1004 (418+300%) MeanShift - Cluster 41. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 1671
+UBC1004 (418+300%) MeanShift - Cluster 42. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 1671
+UBC1004 (418+300%) MeanShift - Cluster 43. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 1671
+UBC1004 418 500 MeanShift
+UBC1004 (418+500%) MeanShift - Estimated number of clusters: 47 (Silhouette: 0.2822)
+UBC1004 (418+500%) MeanShift - Cluster 0. Found: 418 (100.0%). Missed: 0. New: 1249/42. Noise: 841
+UBC1004 (418+500%) MeanShift - Cluster 1. Found: 0 (0.0%). Missed: 418. New: 163/0. Noise: 2345
+UBC1004 (418+500%) MeanShift - Cluster 2. Found: 0 (0.0%). Missed: 418. New: 174/0. Noise: 2334
+UBC1004 (418+500%) MeanShift - Cluster 3. Found: 0 (0.0%). Missed: 418. New: 125/0. Noise: 2383
+UBC1004 (418+500%) MeanShift - Cluster 4. Found: 0 (0.0%). Missed: 418. New: 57/0. Noise: 2451
+UBC1004 (418+500%) MeanShift - Cluster 5. Found: 0 (0.0%). Missed: 418. New: 47/0. Noise: 2461
+UBC1004 (418+500%) MeanShift - Cluster 6. Found: 0 (0.0%). Missed: 418. New: 34/0. Noise: 2474
+UBC1004 (418+500%) MeanShift - Cluster 7. Found: 0 (0.0%). Missed: 418. New: 54/0. Noise: 2454
+UBC1004 (418+500%) MeanShift - Cluster 8. Found: 0 (0.0%). Missed: 418. New: 9/0. Noise: 2499
+UBC1004 (418+500%) MeanShift - Cluster 9. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 2503
+UBC1004 (418+500%) MeanShift - Cluster 10. Found: 0 (0.0%). Missed: 418. New: 25/0. Noise: 2483
+UBC1004 (418+500%) MeanShift - Cluster 11. Found: 0 (0.0%). Missed: 418. New: 43/0. Noise: 2465
+UBC1004 (418+500%) MeanShift - Cluster 12. Found: 0 (0.0%). Missed: 418. New: 8/0. Noise: 2500
+UBC1004 (418+500%) MeanShift - Cluster 13. Found: 0 (0.0%). Missed: 418. New: 45/0. Noise: 2463
+UBC1004 (418+500%) MeanShift - Cluster 14. Found: 0 (0.0%). Missed: 418. New: 3/0. Noise: 2505
+UBC1004 (418+500%) MeanShift - Cluster 15. Found: 0 (0.0%). Missed: 418. New: 3/0. Noise: 2505
+UBC1004 (418+500%) MeanShift - Cluster 16. Found: 0 (0.0%). Missed: 418. New: 2/0. Noise: 2506
+UBC1004 (418+500%) MeanShift - Cluster 17. Found: 0 (0.0%). Missed: 418. New: 2/0. Noise: 2506
+UBC1004 (418+500%) MeanShift - Cluster 18. Found: 0 (0.0%). Missed: 418. New: 8/0. Noise: 2500
+UBC1004 (418+500%) MeanShift - Cluster 19. Found: 0 (0.0%). Missed: 418. New: 2/0. Noise: 2506
+UBC1004 (418+500%) MeanShift - Cluster 20. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 2507
+UBC1004 (418+500%) MeanShift - Cluster 21. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 2507
+UBC1004 (418+500%) MeanShift - Cluster 22. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 2507
+UBC1004 (418+500%) MeanShift - Cluster 23. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 2507
+UBC1004 (418+500%) MeanShift - Cluster 24. Found: 0 (0.0%). Missed: 418. New: 2/0. Noise: 2506
+UBC1004 (418+500%) MeanShift - Cluster 25. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 2507
+UBC1004 (418+500%) MeanShift - Cluster 26. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 2507
+UBC1004 (418+500%) MeanShift - Cluster 27. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 2507
+UBC1004 (418+500%) MeanShift - Cluster 28. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 2503
+UBC1004 (418+500%) MeanShift - Cluster 29. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 2507
+UBC1004 (418+500%) MeanShift - Cluster 30. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 2507
+UBC1004 (418+500%) MeanShift - Cluster 31. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 2507
+UBC1004 (418+500%) MeanShift - Cluster 32. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 2507
+UBC1004 (418+500%) MeanShift - Cluster 33. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 2507
+UBC1004 (418+500%) MeanShift - Cluster 34. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 2507
+UBC1004 (418+500%) MeanShift - Cluster 35. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 2507
+UBC1004 (418+500%) MeanShift - Cluster 36. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 2507
+UBC1004 (418+500%) MeanShift - Cluster 37. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 2507
+UBC1004 (418+500%) MeanShift - Cluster 38. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 2507
+UBC1004 (418+500%) MeanShift - Cluster 39. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 2507
+UBC1004 (418+500%) MeanShift - Cluster 40. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 2507
+UBC1004 (418+500%) MeanShift - Cluster 41. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 2507
+UBC1004 (418+500%) MeanShift - Cluster 42. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 2507
+UBC1004 (418+500%) MeanShift - Cluster 43. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 2507
+UBC1004 (418+500%) MeanShift - Cluster 44. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 2507
+UBC1004 (418+500%) MeanShift - Cluster 45. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 2507
+UBC1004 (418+500%) MeanShift - Cluster 46. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 2507
+UBC1004 418 1000 MeanShift
+UBC1004 (418+1000%) MeanShift - Estimated number of clusters: 61 (Silhouette: 0.2278)
+UBC1004 (418+1000%) MeanShift - Cluster 0. Found: 418 (100.0%). Missed: 0. New: 2826/80. Noise: 1354
+UBC1004 (418+1000%) MeanShift - Cluster 1. Found: 0 (0.0%). Missed: 418. New: 482/0. Noise: 4116
+UBC1004 (418+1000%) MeanShift - Cluster 2. Found: 0 (0.0%). Missed: 418. New: 228/0. Noise: 4370
+UBC1004 (418+1000%) MeanShift - Cluster 3. Found: 0 (0.0%). Missed: 418. New: 7/0. Noise: 4591
+UBC1004 (418+1000%) MeanShift - Cluster 4. Found: 0 (0.0%). Missed: 418. New: 49/0. Noise: 4549
+UBC1004 (418+1000%) MeanShift - Cluster 5. Found: 0 (0.0%). Missed: 418. New: 82/0. Noise: 4516
+UBC1004 (418+1000%) MeanShift - Cluster 6. Found: 0 (0.0%). Missed: 418. New: 88/0. Noise: 4510
+UBC1004 (418+1000%) MeanShift - Cluster 7. Found: 0 (0.0%). Missed: 418. New: 120/0. Noise: 4478
+UBC1004 (418+1000%) MeanShift - Cluster 8. Found: 0 (0.0%). Missed: 418. New: 8/0. Noise: 4590
+UBC1004 (418+1000%) MeanShift - Cluster 9. Found: 0 (0.0%). Missed: 418. New: 6/0. Noise: 4592
+UBC1004 (418+1000%) MeanShift - Cluster 10. Found: 0 (0.0%). Missed: 418. New: 39/0. Noise: 4559
+UBC1004 (418+1000%) MeanShift - Cluster 11. Found: 0 (0.0%). Missed: 418. New: 17/0. Noise: 4581
+UBC1004 (418+1000%) MeanShift - Cluster 12. Found: 0 (0.0%). Missed: 418. New: 6/0. Noise: 4592
+UBC1004 (418+1000%) MeanShift - Cluster 13. Found: 0 (0.0%). Missed: 418. New: 7/0. Noise: 4591
+UBC1004 (418+1000%) MeanShift - Cluster 14. Found: 0 (0.0%). Missed: 418. New: 61/0. Noise: 4537
+UBC1004 (418+1000%) MeanShift - Cluster 15. Found: 0 (0.0%). Missed: 418. New: 5/0. Noise: 4593
+UBC1004 (418+1000%) MeanShift - Cluster 16. Found: 0 (0.0%). Missed: 418. New: 18/0. Noise: 4580
+UBC1004 (418+1000%) MeanShift - Cluster 17. Found: 0 (0.0%). Missed: 418. New: 6/0. Noise: 4592
+UBC1004 (418+1000%) MeanShift - Cluster 18. Found: 0 (0.0%). Missed: 418. New: 3/0. Noise: 4595
+UBC1004 (418+1000%) MeanShift - Cluster 19. Found: 0 (0.0%). Missed: 418. New: 9/0. Noise: 4589
+UBC1004 (418+1000%) MeanShift - Cluster 20. Found: 0 (0.0%). Missed: 418. New: 3/0. Noise: 4595
+UBC1004 (418+1000%) MeanShift - Cluster 21. Found: 0 (0.0%). Missed: 418. New: 3/0. Noise: 4595
+UBC1004 (418+1000%) MeanShift - Cluster 22. Found: 0 (0.0%). Missed: 418. New: 61/0. Noise: 4537
+UBC1004 (418+1000%) MeanShift - Cluster 23. Found: 0 (0.0%). Missed: 418. New: 2/0. Noise: 4596
+UBC1004 (418+1000%) MeanShift - Cluster 24. Found: 0 (0.0%). Missed: 418. New: 2/0. Noise: 4596
+UBC1004 (418+1000%) MeanShift - Cluster 25. Found: 0 (0.0%). Missed: 418. New: 2/0. Noise: 4596
+UBC1004 (418+1000%) MeanShift - Cluster 26. Found: 0 (0.0%). Missed: 418. New: 2/0. Noise: 4596
+UBC1004 (418+1000%) MeanShift - Cluster 27. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 4597
+UBC1004 (418+1000%) MeanShift - Cluster 28. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 4597
+UBC1004 (418+1000%) MeanShift - Cluster 29. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 4597
+UBC1004 (418+1000%) MeanShift - Cluster 30. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 4597
+UBC1004 (418+1000%) MeanShift - Cluster 31. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 4597
+UBC1004 (418+1000%) MeanShift - Cluster 32. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 4597
+UBC1004 (418+1000%) MeanShift - Cluster 33. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 4597
+UBC1004 (418+1000%) MeanShift - Cluster 34. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 4597
+UBC1004 (418+1000%) MeanShift - Cluster 35. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 4597
+UBC1004 (418+1000%) MeanShift - Cluster 36. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 4597
+UBC1004 (418+1000%) MeanShift - Cluster 37. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 4597
+UBC1004 (418+1000%) MeanShift - Cluster 38. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 4597
+UBC1004 (418+1000%) MeanShift - Cluster 39. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 4597
+UBC1004 (418+1000%) MeanShift - Cluster 40. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 4597
+UBC1004 (418+1000%) MeanShift - Cluster 41. Found: 0 (0.0%). Missed: 418. New: 2/0. Noise: 4596
+UBC1004 (418+1000%) MeanShift - Cluster 42. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 4597
+UBC1004 (418+1000%) MeanShift - Cluster 43. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 4597
+UBC1004 (418+1000%) MeanShift - Cluster 44. Found: 0 (0.0%). Missed: 418. New: 4/0. Noise: 4594
+UBC1004 (418+1000%) MeanShift - Cluster 45. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 4597
+UBC1004 (418+1000%) MeanShift - Cluster 46. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 4597
+UBC1004 (418+1000%) MeanShift - Cluster 47. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 4597
+UBC1004 (418+1000%) MeanShift - Cluster 48. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 4597
+UBC1004 (418+1000%) MeanShift - Cluster 49. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 4597
+UBC1004 (418+1000%) MeanShift - Cluster 50. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 4597
+UBC1004 (418+1000%) MeanShift - Cluster 51. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 4597
+UBC1004 (418+1000%) MeanShift - Cluster 52. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 4597
+UBC1004 (418+1000%) MeanShift - Cluster 53. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 4597
+UBC1004 (418+1000%) MeanShift - Cluster 54. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 4597
+UBC1004 (418+1000%) MeanShift - Cluster 55. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 4597
+UBC1004 (418+1000%) MeanShift - Cluster 56. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 4597
+UBC1004 (418+1000%) MeanShift - Cluster 57. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 4597
+UBC1004 (418+1000%) MeanShift - Cluster 58. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 4597
+UBC1004 (418+1000%) MeanShift - Cluster 59. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 4597
+UBC1004 (418+1000%) MeanShift - Cluster 60. Found: 0 (0.0%). Missed: 418. New: 1/0. Noise: 4597
+
+
+Params: {'bandwidth': 0.5, 'bin_seeding': False, 'cluster_all': True, 'max_iter': 300, 'min_bin_freq': 1, 'n_jobs': None, 'seeds': None}
+
